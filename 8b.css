@@ -1,0 +1,21 @@
+body{
+    background-color:aliceblue;
+}
+
+h1{
+    font-size: 18px;
+    color: #212078;
+}
+
+p{
+    font-size: 12px;
+}
+
+h1, p{
+    font-family: 'Tinos', serif;
+}
+
+img{
+    width: 600px;
+    height: 500px;
+}
