@@ -1,0 +1,26 @@
+p{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 36px;
+}
+
+body{
+    background-color: #afbecd;
+}
+
+#links{
+    background-color: white;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #000000;
+}
+
+a:visited{
+    color: #7ca47c;
+}
+
+a:active{
+    color: #7ca47c;
+}
